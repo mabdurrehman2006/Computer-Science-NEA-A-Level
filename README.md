@@ -1,5 +1,7 @@
 Football league management system with player performance tracker
 
+Full in depth documentation can be found [here](https://docs.google.com/document/d/1HqEmg_0M55pfjkKgDacgvPU9maqyH75HqrpvZdiP63I/edit?usp=sharing)
+
 Mainly created using python. User Interface made using tkinter and ttkbootstrap. Basic SQL statements used. SQLite used. 8 SQL tables used
 
 Lets a league admin update log in league standings and match scores every week. Generates fixtures at the start of the season and ensures each team plays each other once. Can easily be modified to each team playing twice. Tracks each teams points, goals for, goals against, goal difference, games played, wins, losses and draws
